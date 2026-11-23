@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "../icon-src.png"
+ },
+ "source_md5": "31202054512726f7de2061792dbba64c",
+ "version": "c64dc2f3",
+ "tile": "#ffffff",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/zarks-biocleaning-services-logo.webp",
+  "59521424f3547d8c3b0868c4f492e692"
+ ],
+ "made": "2026-11-23"
+}
